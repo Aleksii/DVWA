@@ -6,7 +6,7 @@ php_flag magic_quotes_gpc Off
 </IfModule>
 
 
-
+#cdsgodmapgahpghspadgsdg
 # Only set these if PHP 4 is loaded as an apache module
 <IfModule mod_php4.c>
 php_flag magic_quotes_gpc Off
